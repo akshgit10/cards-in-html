@@ -1,1 +1,21 @@
 
+div.navbar{
+    
+    box-shadow: 2px 2px 5px rgb(171, 168, 168);
+      
+}
+.features{
+    margin-left: 700px;
+}
+
+li{
+    list-style-type: none;
+    display:auto;
+    margin-right: 30px;
+}
+
+.card{
+    width:300px;
+    
+}
+
